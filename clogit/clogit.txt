@@ -14,7 +14,7 @@ library("survival")
 library("mgcv")
 library("Epi")
 # Import Data Excel Into R From Github Olah Data Semarang (timbulwidodostp)
-github_link <- "https://github.com/timbulwidodostp/prodest_r/raw/main/clogit/clogit.xlsx"
+github_link <- "https://github.com/timbulwidodostp/clogit/raw/main/clogit/clogit.xlsx"
 temp_file <- tempfile(fileext = ".xlsx")
 req <- GET(github_link, 
 # authenticate using GITHUB_PAT
