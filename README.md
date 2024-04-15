@@ -1,6 +1,8 @@
 # clogit
 Conditional Logistic Regression Use Package clogit And clogistic With (In) R Software
 
+https://www.youtube.com/watch?v=2DxR9T5KBMA
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
